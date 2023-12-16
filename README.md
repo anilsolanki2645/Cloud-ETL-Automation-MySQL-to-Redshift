@@ -19,6 +19,10 @@ Moving beyond traditional data migration, the project ensures secure MySQL backu
 
 The project goes beyond basic data migration, ensuring secure MySQL backup to S3, Redshift cluster configuration, SQL command execution, and comprehensive data transformation. The result is an end-to-end ETL solution that emphasizes automation, efficiency, and best practices in cloud-based data workflows.
 
+# Project Work Flow 
+
+![ETL_Project_Workflow](https://github.com/anilsolanki2645/Cloud-ETL-Automation-MySQL-to-Redshift/assets/110897807/90926af1-e583-4f8a-9daf-1e8fa5aa1436)
+
 # Key Achievements:
 1. Automated EC2 instance, S3 bucket, and Redshift cluster configurations using Python code.
 2. Collected data from the IMDB website using web scraping with requests and BeautifulSoup.
