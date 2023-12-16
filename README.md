@@ -2,6 +2,16 @@
 
 Automated ETL  Utilizes Python, Boto3, and web scraping for data acquisition, ensuring end-to-end automation. Configures AWS EC2, S3, and Redshift clusters, applying best practices for security and scalability. Enhances data processing with Pandas, SQL, and web scraping, ensuring efficient data transformation.
 
+Important Terms:
+- **Python**: Automation Powerhouse
+- **Requests**: Web Scraping Precision
+- **BeautifulSoup**: Dynamic Data Collection
+- **Pandas**: Data Processing Excellence
+- **Boto3**: AWS Service Integration
+- **Paramiko**: Secure SSH Connections
+- **EC2**: Elastic Compute Cloud Configuration
+- **MySQL**: Reliable Relational Database Management
+- **Redshift**: Scalable Data Warehousing Mastery
 
 Introduction:
 
