@@ -59,3 +59,5 @@ The project goes beyond basic data migration, ensuring secure MySQL backup to S3
 
   
 This Cloud ETL Automation project stands as a testament to the convergence of cutting-edge technologies, automation best practices, and a commitment to efficiency in the realm of cloud-based ETL workflows.
+
+Note : If you are working with this project please read the comments and instruction carefully in code for avoid error or conflict.
