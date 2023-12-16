@@ -37,5 +37,7 @@ The secure backup of MySQL data to S3, executed through SSH connections and auto
 - SQL, Data Backup and Migration
 - Web Scraping with Requests and BeautifulSoup
 
+![ETL_Project](https://github.com/anilsolanki2645/Cloud-ETL-Automation-MySQL-to-Redshift/assets/110897807/498e7f35-43e8-4686-a73b-764dfc57f7ea)
+
   
 This Cloud ETL Automation project stands as a testament to the convergence of cutting-edge technologies, automation best practices, and a commitment to efficiency in the realm of cloud-based ETL workflows.
